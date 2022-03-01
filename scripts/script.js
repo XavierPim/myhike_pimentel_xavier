@@ -4,6 +4,7 @@
 
 
 function sayHello() {
-    //do something
+    
+
 }
 //sayHello();    //invoke function
